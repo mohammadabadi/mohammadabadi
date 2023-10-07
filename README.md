@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohammadabadi
 - 👀 I’m interested in Movie & Music
-- 🌱 I’m currently learning VueJS & Flutter
+- 🌱 I’m currently learning VueJS
 - 📫 How to reach me mohammadabadi.project@gmail.com
 
 <!---
