@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mohammadabadi
+- 👋 Hi, I’m @mohammadabadi ( FrontEnd Developer )
 - 👀 I’m interested in Movie & Music
-- 🌱 I’m currently learning VueJS
+- 🌱 I’m currently use VueJS ( Nuxt OR Quasar With Tailwind Css )
 - 📫 How to reach me mohammadabadi.project@gmail.com
 
 <!---
